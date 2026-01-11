@@ -1,4 +1,10 @@
-<img src="https://cdn.prod.website-files.com/69082c5061a39922df8ed3b6/69082c5061a39922df8ed3b6/6963eebdcc5fe7cb53afdab2_G63NbBZs%20(1).png" alt="Capy" />
+<p align="center">
+  <img src="https://cdn.prod.website-files.com/69082c5061a39922df8ed3b6/6963eebdcc5fe7cb53afdab2_G63NbBZs%20(1).png" alt="Capy Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.prod.website-files.com/69082c5061a39922df8ed3b6/6963ee66a1aaf767a85e336e_J45CPjlV_400x400%20(1).jpg" alt="Capy Logo" width="150" />
+</p>
 
 <p align="center">
   <a href="https://capy.ai"><img alt="Get started" src="https://img.shields.io/badge/Get%20started-capy.ai-cyan" /></a>
@@ -19,6 +25,9 @@
 </div>
 
 <img src="images/github.png" alt="Capy on GitHub" />
+n<p align="center">
+  <img src="https://cdn.prod.website-files.com/69082c5061a39922df8ed3b6/6963eed7f925236d475ede50_G8Ho9YYbEAAZhx-%20(1).png" alt="Capy Coding" width="600" />
+</p>
 
 ## Get Started
 
@@ -82,6 +91,9 @@ Adds a delay between steps, useful when waiting for services to start up or for 
   seconds: 10 # Delay in seconds
 ```
 
+n<p align="center">
+  <img src="https://cdn.prod.website-files.com/69082c5061a39922df8ed3b6/6963eebefa1a2363b7a7a660_G-PQitjWcAAdAkj.png" alt="Capy Illustration" width="400" />
+</p>
 The steps are executed in sequence, and you can combine them in any order to create your desired test environment setup. If a `capy.yaml` is not found, the execution agent will infer the setup process with existing GitHub Actions variables.
 
 ## Roadmap
