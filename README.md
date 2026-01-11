@@ -1,8 +1,8 @@
-<img src="images/logo.png" alt="CodeCapy" />
+<img src="https://cdn.prod.website-files.com/69082c5061a39922df8ed3b6/69082c5061a39922df8ed3b6/6963eebdcc5fe7cb53afdab2_G63NbBZs%20(1).png" alt="Capy" />
 
 <p align="center">
-  <a href="https://codecapy.ai"><img alt="Get started" src="https://img.shields.io/badge/Get%20started-codecapy.ai-cyan" /></a>
-  <a href="https://github.com/scrapybara/scrapybara-playground/blob/main/license"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue" /></a>
+  <a href="https://capy.ai"><img alt="Get started" src="https://img.shields.io/badge/Get%20started-capy.ai-cyan" /></a>
+  <a href="https://github.com/andrwhcom/capydotai/blob/main/license"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue" /></a>
   <a href="https://discord.gg/s4bPUVFXqA"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20the%20community-purple.svg?logo=discord" /></a>
   <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <img alt='All Contributors' src='https://img.shields.io/badge/All_contributors-1-yellow.svg?style=flat-square' />
@@ -13,17 +13,17 @@
   <ul style="list-style: none">
     <summary>
       <h3>The only PR bot that <i>actually</i> tests your code.</h3>
-      <p>CodeCapy automatically detects new PRs, generates natural language end-to-end UI tests based on code changes, executes tests in isolated Scrapybara instances, posts test results to PR comments, and more.</p>
+      <p>Capy automatically detects new PRs, generates natural language end-to-end UI tests based on code changes, executes tests in isolated Scrapybara instances, posts test results to PR comments, and more.</p>
     </summary>
   </ul>
 </div>
 
-<img src="images/github.png" alt="CodeCapy on GitHub" />
+<img src="images/github.png" alt="Capy on GitHub" />
 
 ## Get Started
 
-1. Connect your GitHub repositories on the [CodeCapy dashboard](https://codecapy.ai)
-2. Or install CodeCapy directly on [GitHub](https://github.com/apps/codecapyai)
+1. Connect your GitHub repositories on the [Capy dashboard](https://capy.ai)
+2. Or install Capy directly on [GitHub](https://github.com/apps/capyai)
 3. Add environment variables to your GitHub Action variables
 4. Configure test environment setup by adding a `capy.yaml` file (highly recommended)
 
@@ -108,8 +108,8 @@ The steps are executed in sequence, and you can combine them in any order to cre
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/scrapybara/codecapy.git
-cd codecapy
+git clone https://github.com/andrwhcom/capydotai.git
+cd capydotai
 ```
 
 2. Install dependencies:
